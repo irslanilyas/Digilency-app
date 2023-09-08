@@ -6,6 +6,10 @@
   html {
   background-color: black
 }
+body {
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
   :root {
     --foreground: 222.2 84% 4.9%;
 
@@ -74,8 +78,6 @@
   * {
     @apply border-border;
   }
-  body {
-    @apply bg-background text-foreground;
-  }
+
 }
 

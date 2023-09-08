@@ -1,8 +1,8 @@
-import Header from "@/components/ui/Header"
 
 export default function Home() {
   return (
-    <main>
+    <main className="text-white font-family: 'Montserrat', sans-serif;">
+      Hi
     </main>
   )
 }
